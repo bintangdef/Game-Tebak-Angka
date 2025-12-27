@@ -1,0 +1,23 @@
+{
+  "name": "game-tebak-angka",
+  "version": "1.0.0",
+  "description": "game tebak angka",
+  "keywords": [
+    "game"
+  ],
+  "homepage": "https://github.com/bintangdef/Game-Tebak-Angka#readme",
+  "bugs": {
+    "url": "https://github.com/bintangdef/Game-Tebak-Angka/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bintangdef/Game-Tebak-Angka.git"
+  },
+  "license": "ISC",
+  "author": "bintang febri",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
